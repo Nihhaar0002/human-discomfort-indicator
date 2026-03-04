@@ -7,9 +7,9 @@
 #include <Wire.h>
 #include <LiquidCrystal_I2C.h>
 
-char auth[] = "YourAuthToken";
-char ssid[] = "SAINIHHAAR 5426";
-char pass[] = "1234567890";
+char auth[] = "VyXieXpjIoB9PYv9pqPV4fZcGrhRr7hs"; //here you can give your auth token
+char ssid[] = "SAINIHHAAR 5426";//your hotspot ssid
+char pass[] = "1234567890";//and its password
 
 #define DHTPIN D2
 #define DHTTYPE DHT11
