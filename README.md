@@ -60,8 +60,11 @@ https://github.com/user-attachments/assets/17b7c139-a9ba-4407-b5b6-6e7a7ae182c1
 ---
 
 ## Demo Video
-Time stamp: 2.28 to the rest
+
+Watch the project demonstration here:
+
 https://youtu.be/JW4oL1UTP14?t=149
+Note--Time stamp: 2.28 to the rest
 
 ---
 
